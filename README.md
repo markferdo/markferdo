@@ -1,5 +1,12 @@
 ## Hi there 👋
-- 🌱 IoT | Embedded Programming
+- 🌱 IoT | Embedded Systems
+
+Skills
+  - Raspberry
+  - C
+  - Embedded Programming
+  - Python
+    
 <!--
 **markferdo/markferdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
