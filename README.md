@@ -6,6 +6,11 @@ Skills
   - C
   - Embedded Programming
   - Python
+
+Projects
+  - [Raspberry](https://github.com/markferdo/Pill_Dispenser)
+  - [C](https://github.com/markferdo/Heartbeat_Detecting_device)
+
     
 <!--
 **markferdo/markferdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
