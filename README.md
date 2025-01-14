@@ -8,8 +8,8 @@ Skills
   - Python
 
 Projects
-  - [Raspberry](https://github.com/markferdo/Pill_Dispenser)
-  - [C](https://github.com/markferdo/Heartbeat_Detecting_device)
+  - [Pill Dispenser](https://github.com/markferdo/Pill_Dispenser)
+  - [Heartbeat Detecting device](https://github.com/markferdo/Heartbeat_Detecting_device)
 
     
 <!--
