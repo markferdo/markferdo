@@ -9,6 +9,7 @@ Skills
   - Python
 
 Projects
+  - [Smart Garage Door](https://github.com/markferdo/Smart-Garage-Door)
   - [Pill Dispenser](https://github.com/markferdo/Pill_Dispenser)
   - [Heartbeat Detecting device](https://github.com/markferdo/Heartbeat_Detecting_device)
 
