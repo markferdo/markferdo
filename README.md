@@ -4,6 +4,7 @@
 Skills
   - C
   - C++
+  - Linux
   - Raspberry
   - Embedded Programming
   - Python
