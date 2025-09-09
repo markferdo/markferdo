@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m Mark Fernando, a second-year IT student at Metropolia University of Applied Sciences, specializing in IoT and embedded systems. Passionate about technology, I enjoy applying my skills to real-world projects in both software and hardware.
+- 🌱 I’m Mark Fernando, a 3rd-year IT student at Metropolia University of Applied Sciences, specializing in IoT and embedded systems. Passionate about technology, I enjoy applying my skills to real-world projects in both software and hardware.
 
 Skills
   - C
