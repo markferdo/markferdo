@@ -4,6 +4,7 @@
 Skills
   - C/C++
   - Linux
+  - FreeRTOS
   - Raspberry Pi
   - Embedded Programming
   - Python
